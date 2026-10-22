@@ -1,6 +1,9 @@
 
-1.	INTRODUCTION – (Name)
-[type]
+1.	INTRODUCTION – (Zayaan)
+In this lab, we assessed a machine learning model using the Titanic dataset to predict passenger survival. Rather than just looking 
+at the accuracy of our model, we examined its performance in more detail by
+calculating the confusion matrix, precision, recall, and F1-score. In addition, we explored cross-validation 
+to evaluate the model's consistency across different data splits. This task was completed, as demonstrated in the attached file.
 
 2.	DESCRIPTION OF EXPIRIENCE/TOPIC - (Name)
 [type]
