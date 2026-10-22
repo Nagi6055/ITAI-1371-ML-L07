@@ -9,10 +9,11 @@ to evaluate the model's consistency across different data splits. This task was 
 [type]
 
 3.	PERSONAL REFLECTION – Safa Basil
-I learned that accuracy does not explain every kind of prediction error. Precision and recall help answer different questions about model performance, and the F1-score balances both. Cross-validation also helps show whether a model performs consistently across different data splits.
+I learned that accuracy does not explain every kind of prediction error. Precision and recall help answer different questions about model performance, 
+and the F1-score balances both. Cross-validation also helps show whether a model performs consistently across different data splits.
 
 4.	DISCUSSION OF IMPROVEMENT AND LEARNING - (Name)
 [type]
 
-5.	CONCLUSION - (Name)
+5.	CONCLUSION - (Jennifer)
 [type]
